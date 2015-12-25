@@ -3,9 +3,10 @@
 
 # List of Hardware
 
-* Arduino Uno x 1
-* SN74HC595N  x 2 (8 bit shift resistor)
-* 220Ω        x 8
+* Arduino Uno   x 1
+* SN74HC595N    x 2 (8 bit shift resistor)
+* 220Ω          x 8
+* OSL641501-ARA x 1 (1.5 Inch 8x8 Dot Matrix LED)
 
 # TBD
 
