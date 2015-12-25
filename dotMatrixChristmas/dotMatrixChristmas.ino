@@ -67,7 +67,7 @@ void loop()
   {
     for(int t = 0;t < 35;t ++)
     {
-      int dat = 0x40;
+      int dat = 0x100;
       for(int num = n; num < 8 + n; num++)
       {
           //shift to simulate right to left scrolling   
